@@ -1,0 +1,15 @@
+D:\depi\training\10\bin\Debug\net8.0\10.exe
+D:\depi\training\10\bin\Debug\net8.0\10.deps.json
+D:\depi\training\10\bin\Debug\net8.0\10.runtimeconfig.json
+D:\depi\training\10\bin\Debug\net8.0\10.dll
+D:\depi\training\10\bin\Debug\net8.0\10.pdb
+D:\depi\training\10\obj\Debug\net8.0\10.GeneratedMSBuildEditorConfig.editorconfig
+D:\depi\training\10\obj\Debug\net8.0\10.AssemblyInfoInputs.cache
+D:\depi\training\10\obj\Debug\net8.0\10.AssemblyInfo.cs
+D:\depi\training\10\obj\Debug\net8.0\10.csproj.CoreCompileInputs.cache
+D:\depi\training\10\obj\Debug\net8.0\10.sourcelink.json
+D:\depi\training\10\obj\Debug\net8.0\10.dll
+D:\depi\training\10\obj\Debug\net8.0\refint\10.dll
+D:\depi\training\10\obj\Debug\net8.0\10.pdb
+D:\depi\training\10\obj\Debug\net8.0\10.genruntimeconfig.cache
+D:\depi\training\10\obj\Debug\net8.0\ref\10.dll
